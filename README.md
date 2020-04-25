@@ -11,7 +11,7 @@ Hello,
 
 Do you like to test an RPG video game? Well, there are forums and my game: Near X one.(still not finished)
 
-Link to the french forum : Oniromancie
+See on [Oniromancie](http://www.rpg-maker.fr/jeux.html), the famous french RPG Maker forum. 
 
 What if you create one?
 
