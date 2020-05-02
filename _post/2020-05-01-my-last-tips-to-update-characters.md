@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Update characters graphic"
+---
+
+# How to update characters graphic
+
 Hi X-oners !
 
 I'll give you some tips to update characters' graphic.
