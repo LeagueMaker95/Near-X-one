@@ -3,15 +3,15 @@
 # jekyll with gihub page
 # https://help.github.com/en/github/working-with-github-pages
 
-name: Epu Baal # Name of your site (displayed in the header)
-title: log of epu baal
-description: developer from pamukkale # Short bio or description (displayed in the header)
+name: Near-X-One  # Name of your site (displayed in the header)
+title: RPG Maker blog for Near-X-One
+description: RPG Maker blog for Near-X-One # Short bio or description (displayed in the header)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/images/epubaal.jpg
+avatar: https://avatars2.githubusercontent.com/u/64273165?s=60&u=9e3fe588f139307e565664f7807ff70c07321f60&v=4
 
 #github
-#https://avatars3.githubusercontent.com/u/1744571?s=400&v=4
+#https://avatars2.githubusercontent.com/u/64273165?s=60&u=9e3fe588f139307e565664f7807ff70c07321f60&v=4
 
 #
 # !! cf home page !!
