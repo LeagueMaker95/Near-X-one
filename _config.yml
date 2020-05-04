@@ -1,1 +1,85 @@
+#
+# This file contains configuration flags to customize your site
+# jekyll with gihub page
+# https://help.github.com/en/github/working-with-github-pages
+
+name: Epu Baal # Name of your site (displayed in the header)
+title: log of epu baal
+description: developer from pamukkale # Short bio or description (displayed in the header)
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: /assets/images/epubaal.jpg
+
+#github
+#https://avatars3.githubusercontent.com/u/1744571?s=400&v=4
+
+#
+# !! cf home page !!
+#
+# https://shopify.github.io/liquid/
+# https://jekyllrb-ko.github.io/
+navigation:
+  - name: Readme
+    url: /readme
+# File name Pattern - Tag
+# shovel - shovel-knight
+
+
+
+# Images locatioin
+images-locatioin: /assets/images/
+post-images-location: /assets/images/posts/
+
+
+# Collect file list in _tags directory to service /tags/...
+# collections:
+#   tags:
+#     output: true
+#     permalink: /tags/:path/
+#
+# defaults:
+#   - scope:
+#       path: ''
+#       type: tags
+#     values:
+#       layout: tag
+
+
+# paging configuration
+paginate: 5
+paginate_path: /paging/page:num/
+
+# page url
+# permalink: /:title/
+permalink: /:year/:month/:day/:title
+
+# The release of Jekyll Now that you're using
+# version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+# Code HightLight
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  # https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight-rouge-herdin'
+
+#markdown: kramdown
+#highlighter: rouge
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  # You might prefer to readable [:expanded]
+  # You might prefer to minify using [:compressed]
+  style: :expanded
+
+
+plugins:
+  - jekyll-paginate #Jekyll2 has default
+
+
 theme: jekyll-theme-midnight
