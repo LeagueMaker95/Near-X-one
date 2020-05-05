@@ -1,16 +1,4 @@
----
-layout: post
-title:  "Index page"
----
 
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 # My first project for RPG games development 
 
