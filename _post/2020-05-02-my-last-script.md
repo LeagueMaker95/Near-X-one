@@ -1,7 +1,4 @@
----
-layout: post
-title:  "a new script"
----
+
 
 # A new script
 
