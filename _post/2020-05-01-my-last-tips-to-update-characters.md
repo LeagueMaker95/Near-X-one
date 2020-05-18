@@ -1,7 +1,4 @@
----
-layout: post
-title:  "Update characters graphic"
----
+
 
 # How to update characters graphic
 
